@@ -1,2 +1,4 @@
 Hi this is my Git file.
 
+I am making a couple changes to the file for the assignment.
+This is a very simple file.
